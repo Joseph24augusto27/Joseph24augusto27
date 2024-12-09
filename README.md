@@ -1,6 +1,6 @@
 ## Hi there :grin:
 
-meu nome é Joseph Augusto, sou um prgramador front end, atualmente estou aprendendo e desenvolvendo projetos com:
+meu nome é Joseph Augusto, sou um prgramador front end, sempre buscando evoluir, atualmente estou aprendendo a desenvolver projetos com:
 <br>
 <br>
 -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
