@@ -10,7 +10,7 @@ meu nome é Joseph Augusto, sou um prgramador front end, sempre buscando evoluir
 conexões: 
 <br>
 <br>
--  <a href="www.linkedin.com/in/joseph-augusto-636685203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
+-  <a href="https://www.linkedin.com/in/joseph-augusto-636685203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
 -  <a href="https://wa.me/5511932158805?text=boa%20tarde%2C%20em%20que%20posso%20ajudar%3F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-logo"></a>
 -  <a href="https://www.instagram.com/josephaugust__/profilecard/?igsh=MjUxcTB2a21qeXdw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"></a>
 
