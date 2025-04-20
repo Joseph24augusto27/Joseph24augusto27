@@ -1,8 +1,8 @@
-## 👋 Hi there! Welcome to my GitHub 😃
+### 👨‍💻 Hi! I'm Joseph, a developer passionate about technology and innovation! 🚀
 
-### 🚀 About Me
-My name is **Joseph Augusto**, and I'm a **Front-End Developer** always looking to improve my skills.  
-I'm currently learning and building projects using:
+Currently transitioning my career to the world of programming, I'm immersed in the **Front-end** universe and exploring the **Full Stack** side with technologies such as **HTML, CSS, JavaScript, React and Node.js**. I'm driven by challenges, continuous learning and coffee ☕️!
+
+Here you'll find projects, studies and lots of ideas under construction. Ready to code? 😄
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML logo">
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo">
