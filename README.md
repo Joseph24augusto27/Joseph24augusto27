@@ -31,7 +31,7 @@
 
 ### 🌐 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/joseph-august27)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joseph-august27/)  
 - 💬 [WhatsApp](https://wa.me/5511932158805?text=Olá,%20como%20posso%20ajudar%3F)  
 - 📸 [Instagram](https://www.instagram.com/josephaugust__/)
 
